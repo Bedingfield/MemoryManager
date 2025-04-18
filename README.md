@@ -39,3 +39,5 @@ This project was developed as a college assignment in February 2020 to deepen my
 2. **Compilation**:
    ```bash
    g++ -std=c++11 main.cpp matrix.cpp mm.cpp -o matrix_test
+
+www.linkedin.com/in/jonathan-bedingfield
